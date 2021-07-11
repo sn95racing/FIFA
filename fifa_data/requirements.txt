@@ -16,4 +16,4 @@ scrapy-rotating-proxies==0.6.1
 scrapy-splash==0.7.2
 Scrapy-UserAgents==0.0.1
 spidermon==1.10.0
-Twisted==18.9.0
+Twisted==19.7.0
